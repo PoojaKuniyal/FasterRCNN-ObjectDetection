@@ -1,0 +1,8 @@
+venv/
+artifacts/raw/
+artifacts/models/
+gun_object_detection.egg-info/
+logs/
+tensorboard_logs/
+
+
