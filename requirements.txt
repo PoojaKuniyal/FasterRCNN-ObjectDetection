@@ -8,3 +8,7 @@ torchvision
 tensorboard
 pillow
 dvc
+dvc-gs
+fastapi[all]
+uvicorn
+pillow
