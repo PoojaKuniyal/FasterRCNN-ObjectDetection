@@ -177,7 +177,3 @@ dvc push
 * Deploy API to **Render / GCP Cloud Run / AWS Lambda**.
 * Integrate **CI/CD** with GitHub Actions for automated training & deployment.
 
----
-
-
-Would you like me to also include **sample screenshots** (TensorBoard graph, SwaggerUI, bounding box output) in the README so it looks even more professional on GitHub?
