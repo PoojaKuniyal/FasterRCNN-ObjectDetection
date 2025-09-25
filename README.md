@@ -78,9 +78,6 @@ and **integrate it into a custom MLOps pipeline** with DVC, TensorBoard, and Fas
 3. Returns the same image with **bounding boxes around detected guns**.
 
 ---
-Perfect 👌 here’s a **concise “Metrics” section** you can drop into your README, plus a **short note on Faster R-CNN** (kept in your project context with MLOps focus):
-
----
 
 ### 📊 Metrics
 
